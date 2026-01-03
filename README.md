@@ -45,6 +45,10 @@ A análise reforça que o sucesso do Scrum está diretamente relacionado à **fl
 
 ## 📄 Estrutura do Repositório
 
+📂 resenha-critica-scrum-sony
+├── 📄 Resenha_Critica_Case_Sony_Scrum.pdf
+└── 📄 README.md
+
 ## Fonte:
 
 https://www.agile42.com/en/success-stories/success-story-sony
