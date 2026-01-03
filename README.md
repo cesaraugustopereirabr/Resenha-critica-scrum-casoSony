@@ -48,4 +48,5 @@ A análise reforça que o sucesso do Scrum está diretamente relacionado à **fl
 ## Fonte:
 
 https://www.agile42.com/en/success-stories/success-story-sony
+Acessado em: 03/01/2026
 
